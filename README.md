@@ -11,5 +11,6 @@ Tensorflow YOLOv3 implementation cloned from: https://github.com/zzh8829/yolov3-
 - CUDA 10.0
 - CUDNN 7.6.0
 
-Continuation from: https://github.com/JeffStodd/Object-Recognition-Aimbot
-Currently a work in progress
+ Continuation from: https://github.com/JeffStodd/Object-Recognition-Aimbot
+
+ Currently a work in progress
